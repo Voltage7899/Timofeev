@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "941581866752",
+    "firebase_url": "https://timofeev-12e59-default-rtdb.firebaseio.com",
+    "project_id": "timofeev-12e59",
+    "storage_bucket": "timofeev-12e59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941581866752:android:1ece2cf333987a60c3c5e5",
+        "android_client_info": {
+          "package_name": "com.example.timofeev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941581866752-h07fjq036qb3e29n56n626t5jd93elll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.timofeev",
+            "certificate_hash": "9e8a0f4d149ce0755bdbdfc6f56fbc04187aa72e"
+          }
+        },
+        {
+          "client_id": "941581866752-g0c0vatg7gqfkfi7hkn45c52igd78fq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg0JWtkwtQDsNgrTyLFXGubRoAzBYbw9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941581866752-g0c0vatg7gqfkfi7hkn45c52igd78fq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
